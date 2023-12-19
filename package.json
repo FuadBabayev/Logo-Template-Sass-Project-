@@ -1,0 +1,21 @@
+{
+  "name": "logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sas": "^3.0.4",
+    "sass": "^1.69.5"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
